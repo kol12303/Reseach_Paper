@@ -3,7 +3,9 @@
 
 
 
-## *Data File: an excel file which Contains the number of tourist arrivals to each 12 Moroccan regions, where the first sheet contain the data and the second sheet conatain the nomenclature*. 
+## *Data File*: 
+
+*An excel file which Contains the number of tourist arrivals to each 12 Moroccan regions, where the first sheet contain the data and the second sheet conatain the nomenclature*. 
 > #### *The Data File called* **Tourism Morocco.xlsx**
 
 
