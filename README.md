@@ -10,7 +10,8 @@
 
 
 
-## The Python Codes are seperated based on the article into three Jupyter Notebook:
+## *The Python Codes*: 
+*The codes are seperated based on the article into three Jupyter Notebook:
 *Traditional Models, which contain the three adopted models, ARIMA, AR, and the Univariate Linear Regression. with the plots and the accuracy measures (RMSE, MSE, MAPE, and MAE)*
 > #### The Jupyter Notebook Called **Traditional.ipynb**
 
