@@ -8,10 +8,10 @@
 
 ## 3- *The Python Codes*: 
 *The codes are separated based on the article into three Jupyter Notebook:
-*Traditional Models, which contain the three adopted models, ARIMA, AR, and the Univariate Linear Regression. With the plots and the accuracy measures (RMSE, MSE, MAPE, and MAE)*
+*Traditional Models, which contain the three adopted models, ARIMA, AR, and the Univariate Linear Regression. With the plots and the accuracy measures (RMSE, MAPE, and MAE)*
 > #### The Jupyter Notebook Called **Traditional.ipynb**
 
-*And a IA-based Models, which contain three adopted models (LSTM, SVR, and XGBOOST). With the plots and the accuracy measures (RMSE, MSE, MAPE, and MAE)*
+*And a IA-based Models, which contain three adopted models (LSTM, SVR, and XGBOOST). With the plots and the accuracy measures (RMSE, MAPE, and MAE)*
 > #### The Jupyter Notebook Called **AI-based_Models.ipynb**
 
 *And third notebook contains the adopted ensemble model, which combines forecasted values from the traditional and AI-based models, also with plots and accuracy measures*. 
